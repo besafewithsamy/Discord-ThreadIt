@@ -11,6 +11,19 @@ I wanted something that could take a normal Discord message and make it look mor
 </p>
 d something broken, have an idea, or just want to improve it, feel free to open an issue or contribute. ❤️
 
+## How It Works
+
+ThreadIt uses a simple prefix command:
+
+```.threadit <message>```
+
+You can also include an attachment with the command:
+
+```.threadit <message> + attachment```
+
+
+
+
 ## Built With
 
 * Python
